@@ -2,28 +2,22 @@ MySaldo é um aplicativo de gerenciamento financeiro pessoal que permite aos usu
 
 Tecnologias utilizadas:
 
-- Frontend: React, TypeScript
+Frontend: HTML
 
-- Backend: Node.js, Express
+Ferramentas de apoio:
 
-- Ferramentas de apoio:
+Gerenciamento de tarefas: Jira
 
-- Gerenciamento de tarefas: Jira
-
-- Versionamento de código: GitHub
-
-- Design de interfaces: Figma
-
-- Comunicação da equipe: Slack
+Versionamento de código: GitHub e GIT
 
 Objetivos do projeto:
 
-- Proporcionar uma interface intuitiva e acessível para facilitar o controle financeiro pessoal.
+Proporcionar uma interface intuitiva e acessível para facilitar o controle financeiro pessoal.
 
-- Automatizar o monitoramento de receitas e despesas para melhorar a tomada de decisões financeiras.
+Automatizar o monitoramento de receitas e despesas para melhorar a tomada de decisões financeiras.
 
-- Garantir a segurança e integridade dos dados dos usuários.
+Garantir a segurança e integridade dos dados dos usuários.
 
-- Oferecer relatórios claros e customizáveis para o acompanhamento do saldo e orçamento.
+Oferecer relatórios claros e customizáveis para o acompanhamento do saldo e orçamento.
 
-- Escalar facilmente a aplicação para suportar crescimento do número de usuários.
+Escalar facilmente a aplicação para suportar crescimento do número de usuários.
